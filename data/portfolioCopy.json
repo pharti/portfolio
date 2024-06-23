@@ -36,13 +36,21 @@
                 "id": "1",
                 "dates": "March 2021 - June 2024",
                 "type": "Full Time",
-                "position": "The Digital Group - Software Engineer"
+                "position": "The Digital Group - Software Engineer",
+                   "bullets": [
+          "Worked on the frontend of a React application",
+          "Worked on the frontend of a React application"
+        ]
             },
             {
                 "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
                 "dates": "Jan 2018 - June 2020",
                 "type": "Full Time",
-                "position": "SmartData Enterprise - Software Engineer"
+                "position": "SmartData Enterprise - Software Engineer",
+                   "bullets": [
+          "Worked on the frontend of a React application",
+          "Worked on the frontend of a React application"
+        ]
             }
         ],
         "education": {
